@@ -48,4 +48,7 @@ Need some info on how to use it? Check out our first Descension session, which w
 
 ---
 
+P.S.  
+Remember to switch to the develop branch!!
+
 > See you in Discord!
