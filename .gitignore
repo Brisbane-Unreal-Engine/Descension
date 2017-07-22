@@ -62,3 +62,10 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Engine config file
+Config/DefaultEngine.ini
+
+# Mac OS files
+**/.DS_Store
+**/._.DS_Store
