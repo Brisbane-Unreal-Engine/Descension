@@ -21,7 +21,6 @@ For public facing documentation for the project, check out our google drive fold
 
 [Descension Asset List](https://docs.google.com/document/d/1ZyAlyrOw4nrWRRzISaa61025F4T9VVCr7Jb19lnUrEQ/edit)
 
-
 ---
 
 > See you in Discord!
